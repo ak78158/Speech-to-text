@@ -1,0 +1,1 @@
+my name is Amit Kumar I am text in explaining about pinhole camera the pinhole Camera model in this model light passes through a single point that is called camera Centre before it is projected onto a image plane as soon as another camera having same model
